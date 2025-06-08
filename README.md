@@ -29,8 +29,9 @@ The goal is to determine which promotion led to the highest sales, so the compan
 
 ## 🎯 Business Recommendation
 
-- **Promotion 1** is most promising and significantly outperforms Promotion 3
-- Test further between Promotion 1 and Promotion 2 with a more focused A/B test using a separate dataset or experimental setup to ensure no prior exposure bias. This would ideally involve rerunning the test by randomly assigning Promotions 1 and 2 across a new set of stores and tracking performance independently of the current campaign.
+- **Promotion 1** performs significantly better than **Promotion 3**
+- Promotion 1 is **recommended** for rollout across stores as it outperforms both Promotion 2 and Promotion 3 and has highest weekly sales
+- Optionally, test further between Promotion 1 and Promotion 2 to explore edge cases like specific store types, regions, or longer-term effects using a **separate dataset or experimental setup** to ensure no prior exposure bias. This would ideally involve rerunning the test by randomly assigning Promotions 1 and 2 across a new set of stores and tracking performance independently of the current campaign.
 
 ---
 
